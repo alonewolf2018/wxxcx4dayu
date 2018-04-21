@@ -1,0 +1,12 @@
+{
+    "pages": [
+        "pages/ysaf/login/login",
+        "pages/ysaf/dsk/dsk" 
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#fff",
+        "navigationBarTitleText": "银丰项目管理",
+        "navigationBarTextStyle": "black"
+    }
+}
